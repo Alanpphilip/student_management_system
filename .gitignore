@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+student_management.db
+test_system_temp.db
